@@ -1,3 +1,8 @@
+ <style>
+h1{
+ color:green
+ }
+</style>
  <h1> Hi, I’m @Kajrat-maratov</h1>
  
 
