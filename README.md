@@ -10,9 +10,8 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/%D0%BA%D0%B0%D0%B9%D1%80%D0%B0%D1%82-%D0%BC%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2-69309221a/"><img align="left" alt="Kairat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<img align="left" alt="Kairat | LinkedIn" width="22px" src="https://th.bing.com/th/id/R.5e45191ed52118ddcf44cdc1c612fb7e?rik=GwQS51NFfzJ04Q&pid=ImgRaw&r=0" />
-<a href="https://www.instagram.com/kair.mv/"></a>
-<a href="">
+<a href="https://www.instagram.com/kair.mv/"><img align="left" alt="Kairat | Instagram" width="22px" src="https://th.bing.com/th/id/R.5e45191ed52118ddcf44cdc1c612fb7e?rik=GwQS51NFfzJ04Q&pid=ImgRaw&r=0" /></a>
+<a href="https://t.me/joinchat/maovkasavich">
 <img align="left" alt="Kairat |Telegram" width="22px" src="https://th.bing.com/th/id/R.21423a19b136661c4cf8ae2b27b6e0e2?rik=vykwFek%2fpB58%2bQ&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_1703.png&ehk=0VXYFjtAqBMReneaGKXgsjSJ0f85zXiJauxP4Zbe4IE%3d&risl=&pid=ImgRaw&r=0" />
 </a>
 
