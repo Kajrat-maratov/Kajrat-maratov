@@ -2,7 +2,7 @@
 
 
 ## I'm a FrontEnd Developer
-- 💪 I like to write code
+- 💪 I  like to write code 😂
 - 🎉 I love sing, ride a bike and go skiing
 - 🥅 I am constantly learning new things
 
